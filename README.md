@@ -8,8 +8,6 @@ Smooth UI, card animations, sound effects, AI decision-making, and full deck sim
 
 ![Blackjack GUI](images/demo.jpg)
 
-*(Replace with your screenshot or rename the image to match.)*
-
 ---
 
 ## 🎮 Features
